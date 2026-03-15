@@ -1,26 +1,79 @@
-Hi there, I'm pawanpushkar! 👋
-About Me
-🌟 Total number of repositories: 17
-🔧 Skills: Android Development, PHP, Hack
-💻 Most used languages: Kotlin, PHP, CSS
-🚀 Focused on mobile app development and web technologies
-🎯 Proficient in back-end technologies
-GitHub Activity Summary
-💼 Created repositories related to Android apps and PHP projects
-🌟 Most starred repository: php-blog-app
-👥 Currently, zero followers
-🔍 Limited community engagement
-Contact Me
-📩 Reach out to me on pawanpushkar@icloud.com
-Profile Overview
-Github Stats
-Top Languages
-GitHub Streak
-Summary
-I am a B.E. student at Rajarajeshwari College of Engineering, specializing in IoT & Cybersecurity encompassing Blockchain technology. My primary interests lie in web development.
+👋 Hi, I'm Pawan Pushkar
 
-For more repository insights and details, please visit my GitHub Profile.
+🎓 B.E. Student passionate about Technology, Cybersecurity, and Development
 
-Let's connect and collaborate! 🚀
+💻 I enjoy building projects using Android, PHP, and Web Technologies while continuously learning new tools and frameworks.
 
-You can include additional elements (images, badges, etc.) to enhance visual appeal and engagement.
+🚀 About Me
+
+🎓 Engineering student interested in IoT & Cybersecurity
+
+📱 Learning Android App Development
+
+🌐 Working with PHP Web Development
+
+🔐 Interested in Ethical Hacking & Bug Bounty
+
+📚 Always improving my programming and backend skills
+
+🛠️ Tech Stack
+
+Languages
+
+Kotlin
+
+PHP
+
+HTML
+
+CSS
+
+Technologies
+
+Android Development
+
+Web Development
+
+Backend Development
+
+Git & GitHub
+
+📊 GitHub Profile Stats
+
+📦 Repositories: 17+
+
+⭐ Most Popular Repo: php-blog-app
+
+💻 Top Languages: Kotlin, PHP, CSS
+
+🔍 Constantly learning and building new projects
+
+💼 Projects
+
+Some of the projects I built include:
+
+📝 PHP Blog Application
+
+📱 Android Development Projects
+
+🌐 Web Development Practice Projects
+
+These projects help me improve my coding, backend logic, and development workflow.
+
+🎯 Current Goals
+
+Learn Advanced Android Development
+
+Improve Backend Development Skills
+
+Start contributing to Open Source
+
+Learn Cybersecurity & Bug Bounty Hunting
+
+🤝 Let's Connect
+
+📧 Open for collaboration and learning opportunities.
+
+💻 GitHub: https://github.com/pawanpushkar
+
+📩 Feel free to connect and collaborate on projects.
